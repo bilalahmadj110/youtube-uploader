@@ -15,9 +15,9 @@ details_ = {}
 
 # AREA YOU NEED TO EDIT
 #######################################################################################################################################
-details_['client_id'] = "427083444338-eerfpeveqd1nmeedgnta2umk7rr11f7b.apps.googleusercontent.com"
-details_['client_secret'] = "Uf5127Oaf2wFFkxfT3nM-wYm"
-details_['refresh_token'] = "1//04olNis_JHjmlCgYIARAAGAQSNwF-L9Irb1Fl7a_18KbDIQcukvPjjMxiHhS-T_H-AUTKNjcZhQXt6ntPyq5RafxJpXiIv-ccCJs"#"1//044FmmxLJDb4ACgYIARAAGAQSNwF-L9IrCbSodnTti-oyi8F-CR6jaaE9yQby1Px4KKJqX9ZFApDahnWT8cSUbl-TljiAYgyf8CQ"
+details_['client_id'] = "<< CLIENT ID >>"
+details_['client_secret'] = "<< CLIENT SECRET >>"
+details_['refresh_token'] = "<< REFRESH TOKEN >>"
 details_['video_title'] = "Video title goes here"
 details_['video_desc'] = "Video description goes here"
 
