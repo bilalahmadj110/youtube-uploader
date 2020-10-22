@@ -1,9 +1,3 @@
-Privacy Policy for Test Site
-
-Languages
-
--   English
-
 Privacy Policy
 ==============
 
@@ -16,9 +10,7 @@ You.
 
 We use Your Personal data to provide and improve the Service. By using
 the Service, You agree to the collection and use of information in
-accordance with this Privacy Policy. This Privacy Policy has been
-created with the help of the [Privacy Policy
-Generator](https://www.freeprivacypolicy.com/free-privacy-policy-generator/).
+accordance with this Privacy Policy.
 
 Interpretation and Definitions
 ==============================
@@ -72,7 +64,7 @@ For the purposes of this Privacy Policy:
     infrastructure itself (for example, the duration of a page visit).
 
 -   **Website** refers to Test Site, accessible from
-    [https://interpolation-8aaf0.firebaseapp.com/](https://interpolation-8aaf0.firebaseapp.com/)
+    [https://developers.google.com/oauthplayground/](Google OAuthPlayground)
 
 -   **You** means the individual accessing or using the Service, or the
     company, or other legal entity on behalf of which such individual is
